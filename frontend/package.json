@@ -34,7 +34,7 @@
         "js-base64": "^3.7.2",
         "js-md5": "^0.7.3",
         "md-editor-v3": "^2.7.2",
-        "monaco-editor": "^0.34.0",
+        "monaco-editor": "^0.41.0",
         "nprogress": "^0.2.0",
         "optionator": "^0.9.3",
         "pinia": "^2.0.12",
